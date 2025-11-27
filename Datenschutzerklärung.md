@@ -21,12 +21,8 @@ Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.
 
 **Verantwortlicher im Sinne der DSGVO ist:**
 
-**Serdar Palaoglu**  
-Birnenpfad 22  
-13591 Berlin  
-Deutschland  
+<img width="246" height="110" alt="image" src="https://github.com/user-attachments/assets/b20731db-a45b-48af-af8f-b2aabf7b199a" />
 
-E-Mail: [serdar@immobot.co](mailto:serdar@immobot.co)
 
 Sofern Sie Fragen zum Datenschutz in Zusammenhang mit unserer Website oder App haben, können Sie sich jederzeit an uns wenden.
 
