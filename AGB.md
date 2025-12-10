@@ -76,7 +76,7 @@ Der Anbieter haftet nicht für Datenverluste, Fehlfunktionen oder Schäden, die 
 
 Der Anbieter erhebt und verarbeitet nur personenbezogene Daten, die für die Bereitstellung des Services unbedingt erforderlich sind. Es erfolgt keine Sammlung von Daten, die über das notwendige Maß hinausgehen.
 
-Für die Erhebung, Verarbeitung und Nutzung personenbezogener Daten gilt unsere Datenschutzerklärung, die unter https://immobot.co/datenschutz abrufbar ist.
+Für die Erhebung, Verarbeitung und Nutzung personenbezogener Daten gilt unsere Datenschutzerklärung, die unter https://github.com/5mbl/immobot.co/blob/main/Datenschutzerkl%C3%A4rung.md abrufbar ist.
 
 Beim Weiterleiten zu externen Immobilienportalen können personenbezogene Daten (wie IP-Adresse, Suchpräferenzen) an diese Drittanbieter übertragen werden. Hierfür gelten die Datenschutzbestimmungen der jeweiligen externen Anbieter.
 
