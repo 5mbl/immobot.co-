@@ -118,13 +118,25 @@ Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.
 
 Nutzer sind verpflichtet, ihre Zugangsdaten sicher aufzubewahren und Dritten keinen Zugriff auf die App zu gewähren. Der Anbieter übernimmt keine Haftung für Schäden oder Ansprüche, die durch die Nutzung der App durch Dritte oder durch missbräuchliche Nutzung entstehen.
 
----
 
-Die EU-Kommission stellt eine Plattform zur Online-Streitbeilegung bereit: https://ec.europa.eu/consumers/odr. Wir sind weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+## 20. Weitere Haftungsausschlüsse
+- Keine Anlage- oder Kaufberatung: Die in der App dargestellten Informationen stellen keine Anlage-, Rechts- oder Kaufberatung dar. Der Anbieter empfiehlt, vor jeder Immobilienentscheidung eine unabhängige fachkundige Beratung einzuholen.
 
----
+- Keine Garantie für Transaktionserfolg: Der Anbieter übernimmt keine Gewähr dafür, dass durch die Nutzung der App ein Miet- oder Kaufvertrag zustande kommt. Die Entscheidung über den Abschluss eines Vertrages liegt ausschließlich bei den jeweiligen Immobilienanbietern.
+- Technische Störungen und Datenverlust: Der Anbieter haftet nicht für Schäden, die durch technische Störungen, Serverausfälle, Datenverlust, Viren oder andere schädliche Komponenten entstehen, sofern diese nicht auf vorsätzlichem oder grob fahrlässigem Verhalten des Anbieters beruhen.
+- Entgangene Chancen: Der Anbieter haftet nicht für entgangene Immobilienangebote, verpasste Gelegenheiten oder sonstige mittelbare Schäden, die durch Verzögerungen, Fehlfunktionen oder Nichtverfügbarkeit der App entstehen.
+- Handlungen Dritter: Der Anbieter haftet nicht für das Verhalten von Immobilienanbietern, Maklern oder sonstigen Dritten, mit denen der Nutzer über die in der App verlinkten Angebote in Kontakt tritt.
+- Marktveränderungen: Der Anbieter übernimmt keine Haftung für Schäden, die aus Veränderungen des Immobilienmarktes, Preisschwankungen oder wirtschaftlichen Entwicklungen resultieren.
 
-Gerichtsstand
+## 21. Streitbeilegung
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr
+Der Anbieter ist weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+
+
+## 22. Anwendbares Recht und Gerichtsstand
+Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.
+Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist Berlin, sofern der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist oder keinen allgemeinen Gerichtsstand in Deutschland hat.
 
 
 ---
