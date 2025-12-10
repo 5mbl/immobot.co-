@@ -120,10 +120,19 @@ Nutzer sind verpflichtet, ihre Zugangsdaten sicher aufzubewahren und Dritten kei
 
 ---
 
+Die EU-Kommission stellt eine Plattform zur Online-Streitbeilegung bereit: https://ec.europa.eu/consumers/odr. Wir sind weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+---
+
+Gerichtsstand
+
+
+---
+
 ## Kontakt
 
 <img width="257" height="140" alt="image" src="https://github.com/user-attachments/assets/208df7dd-f953-40df-8c70-0ba10ac07d18" />
 
 ---
 
-**Stand:** [DATUM EINFÜGEN]
+**Stand:** 10.12.2025
